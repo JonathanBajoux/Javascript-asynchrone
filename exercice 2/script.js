@@ -1,6 +1,8 @@
+//crée une variable [object: ]
 let testObject = [];
-
+//crée une fonction
 function searchAge() {
+    // les "id" dans html
     let searchName = document.getElementById('name').value;
     let searchCountry = document.getElementById('country').value;
 
